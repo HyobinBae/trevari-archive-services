@@ -1,13 +1,13 @@
-import React, { useEffect } from 'react';
-import PlatformHeader from './components/platformMain/PlatformHeader';
-import VodPlayerArea from './components/platformMain/VodPlayerArea';
-import ContentsArea from './components/platformMain/ContentsArea';
-import LiveAlarmModal from './components/alarmModals/LiveAlarmModal';
-import { useAppDispatch, useAppSelector } from '../../services/store';
-import { selectLiveDate, setIsLiveModal } from './services/platform.store';
-import SubscribeAlarmModal from './components/alarmModals/SubscribeAlarmModal';
-import { getLiveDate } from '../../api/backend';
-import { useParams } from 'react-router-dom';
+import React, { useEffect } from "react";
+import PlatformHeader from "./components/platformMain/PlatformHeader";
+import VodPlayerArea from "./components/platformMain/VodPlayerArea";
+import ContentsArea from "./components/platformMain/ContentsArea";
+import LiveAlarmModal from "./components/alarmModals/LiveAlarmModal";
+import { useAppDispatch, useAppSelector } from "../../services/store";
+import { selectLiveDate, setIsLiveModal } from "./services/platform.store";
+import SubscribeAlarmModal from "./components/alarmModals/SubscribeAlarmModal";
+import { getLiveDate } from "../../api/backend";
+import { useParams } from "react-router-dom";
 
 interface Props {
   onClick: React.MouseEventHandler<HTMLDivElement>;
@@ -17,7 +17,7 @@ const Platform = () => {
   const { platformID } = useParams();
   const dispatch = useAppDispatch();
   const liveDate = useAppSelector(selectLiveDate);
-  const isLiveModal = useAppSelector(state => state.platform.isLiveModal);
+  const isLiveModal = useAppSelector((state) => state.platform.isLiveModal);
 
   const date = new Date(liveDate?.date);
   const liveHour = date.getTime();
@@ -49,7 +49,7 @@ const Platform = () => {
   return (
     <>
       {isLiveModal === true && <LiveAlarmModal />}
-      {/*<SubscribeAlarmModal/>*/}
+      <SubscribeAlarmModal />
       <PlatformHeader />
       <VodPlayerArea />
       <ContentsArea />
