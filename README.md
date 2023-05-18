@@ -123,7 +123,7 @@
 | 탭 이동 | <img width="90%" src="https://im.ezgif.com/tmp/ezgif-1-3addfe082a.gif"/> |
 | 다시보기 | <img width="90%" src="https://github.com/HyobinBae/trevari-archive-services/assets/115063645/436fdb35-28b4-4614-954c-f4bd343e440c"/> |
 | 읽을거리 | <img width="90%" src="https://im.ezgif.com/tmp/ezgif-1-f558660864.gif"/> |
-| 뷰어 | [뷰어](https://github.com/HyobinBae/trevari-archive-services/assets/115063645/ebe68266-cba8-4c68-aebb-31fd7f443fef) |
+| 뷰어 | <img width="90%" src="https://github.com/HyobinBae/trevari-archive-services/assets/115063645/ebe68266-cba8-4c68-aebb-31fd7f443fef"/> |
 | live 버튼 | <img width="90%" src="https://im.ezgif.com/tmp/ezgif-1-637082f761.gif"/> |
 | live 모달 | <img width="90%" src="https://im.ezgif.com/tmp/ezgif-1-5575b1e9a8.gif"/> |
 
