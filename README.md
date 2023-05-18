@@ -120,13 +120,13 @@
 
 | 구현 기능 | 시연 |
 | :--: | :--: |
-| 탭 이동 | <img width="90%" src="https://im.ezgif.com/tmp/ezgif-1-3addfe082a.gif"/> |
+| 탭 이동 | <img width="90%" src="https://github.com/HyobinBae/trevari-archive-services/assets/115063645/1ccb8ba7-43ce-4657-af9a-0ff61e8216c6"/> |
 | 다시보기 | <img width="90%" src="https://github.com/HyobinBae/trevari-archive-services/assets/115063645/436fdb35-28b4-4614-954c-f4bd343e440c"/> |
-| 읽을거리 | <img width="90%" src="https://im.ezgif.com/tmp/ezgif-1-f558660864.gif"/> |
+| 읽을거리 | <img width="90%" src="https://github.com/HyobinBae/trevari-archive-services/assets/115063645/4dedacea-cf88-49c8-99b0-22d69a22d031"/> |
 | 뷰어 | <img width="90%" src="https://github.com/HyobinBae/trevari-archive-services/assets/115063645/ebe68266-cba8-4c68-aebb-31fd7f443fef"/> |
-| live 버튼 | <img width="90%" src="https://im.ezgif.com/tmp/ezgif-1-637082f761.gif"/> |
-| live 모달 | <img width="90%" src="https://im.ezgif.com/tmp/ezgif-1-5575b1e9a8.gif"/> |
+| live 버튼 | <img width="90%" src="https://github.com/HyobinBae/trevari-archive-services/assets/115063645/4cc114ac-6941-4e97-b5a9-f26066d42613"/> |
+| live 모달 | <img width="90%" src="https://github.com/HyobinBae/trevari-archive-services/assets/115063645/db52cf1b-8ed2-4cf2-9125-150ae80e13c7"/> |
 
 ## References 
-* 이 프로젝트는 트레바리에서  구독 클럽의 구독자를 위한 서비스 제공 목적으로 만들었습니다.
+* 이 프로젝트는 트레바리에서 구독 클럽의 구독자를 위한 서비스 제공 목적으로 만들었습니다.
 * 이 코드는 트레바리의 자산이며 실제 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.  
